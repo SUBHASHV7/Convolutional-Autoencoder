@@ -111,10 +111,11 @@ def train(model, loader, criterion, optimizer, epochs=5):
 
 ### Model Summary
 
-
+![Project Image](Summary.png)
 
 ### Original vs Noisy Vs Reconstructed Image
 
+![Project Image](Image.png)
 
 ## RESULT
 
